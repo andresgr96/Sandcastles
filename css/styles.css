@@ -1,0 +1,33 @@
+#castle1-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.castle2-showing {
+  display: none;
+}
+.clickable-2:hover {
+  text-decoration: underline;
+}
+.clickable-2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.castle3-showing {
+  display: none;
+}
+.clickable-3:hover {
+  text-decoration: underline;
+}
+.clickable-3 {
+  cursor: pointer;
+  color: #0088cc;
+}
